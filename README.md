@@ -1,4 +1,6 @@
 # Vanilla JS projects
+## Installation and Setup
+clone this repo `https://github.com/Kaung-Sintc/Vanilla-Javascript-projects.git` or download zip file
 
 ## Accordion
 ![!Typical accordion](_demo-images/accordion.png)
